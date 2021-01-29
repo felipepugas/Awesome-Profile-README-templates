@@ -12,7 +12,10 @@
 
 
 ```javascript
-const Naveen = {
+const aboutMe = {
+    name: "Felipe",
+    age: "19y",
+    from: "Bahia" | "Brazil",
     pronouns: "He" | "Him",
     code: ["Javascript", "Java"],
     askMeAbout: ["web dev", "tech", "app dev", "music", "eddie vedder", "chris cornell"],
